@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to the **Portfolio** repository! This project showcases my personal portfolio website, built to highlight my skills, experience, projects, and contact information. The site is designed for modern web standards, leveraging **JavaScript**, **CSS**, and **HTML** for a fast, responsive, and visually appealing user experience.
+Welcome to the **Portfolio** repository! This project showcases my personal portfolio website, built to highlight my skills, experience, projects, and contact information. The site is designed for modern web standards, leveraging **React** **JavaScript**, **Tailwind CSS**, and **HTML** for a fast, responsive, and visually appealing user experience.
 
 ---
 
@@ -11,8 +11,6 @@ Welcome to the **Portfolio** repository! This project showcases my personal port
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
 
@@ -69,11 +67,8 @@ To run this portfolio locally or deploy it, follow these instructions:
    ```
 4. **Start the development server (if using a framework):**
    ```bash
-   npm start
+   npm run dev
    ```
-5. **Or simply open `index.html` in your browser for static sites.**
-
----
 
 ## Project Structure
 
@@ -115,9 +110,9 @@ Contributions are welcome! If you'd like to suggest improvements, fix bugs, or a
 
 Feel free to reach out for collaboration, questions, or feedback!
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@yourhandle](#)
+
+- **LinkedIn:** [https://www.linkedin.com/in/iamsauravgc/](#)
+
 
 ---
 
